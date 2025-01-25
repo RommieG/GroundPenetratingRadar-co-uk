@@ -1,0 +1,78 @@
+baseURL: https://www.groundpenetratingradar.co.uk
+languageCode: en-gb
+title: Sandberg GPR
+description: "Ground Penetrating Radar is an NDT method which investigates and maps the sub-surface. Sandberg uses it to analyse building construction detail, identify defects and locate buried objects and much more."
+theme: PaperMod
+paginate: 12
+enableRobotsTXT: true
+
+paginate: 10
+enableRobotsTXT: true
+
+# changes filepath from /posts/ to /news/
+permalinks:
+  page:
+    posts: /news/:slug
+  section:
+    posts: /news/
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: surveys
+      name: GPR Surveys
+      url: /surveys/
+      weight: 45
+    - identifier: case-studies
+      name: Case Studies
+      url: /case-studies/
+      weight: 50
+    - identifier: posts
+      name: GPR News
+      url: /news/
+      weight: 60
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 70
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  images: 
+    - /img/featured.png # default image for opengraph - in the static folder
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  DateFormat: 2 January 2006
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  # hideSummary: true
+  description: GPR surveys for the Construction Industry. Detect and map subsurface features, determine construction detail, identify defects, and more, using non-destructive survey techniques.
+  # author: Rom Gostomski
+  
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    android-chrome-192x192: "/favicon/android-chrome-192x192.png"
+    android-chrome-512x512: "/favicon/android-chrome-512x512.png"
+
+  homeInfoParams:
+    # Title: Ground Penetrating Radar (GPR)
+    # Content: Ground Penetrating Radar is an NDT method which investigates and maps the sub-surface. Sandberg uses it to analyse building construction detail, identify defects and locate buried objects and much more.
+
+  # socialIcons: 
+    # - name: linkedin
+      # url: https://www.linkedin.com/company/1091527/
+    # - name: rss
+      # url: "/index.xml" 
+

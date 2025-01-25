@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>brick on Sandberg GPR</title>
+    <link>https://www.groundpenetratingradar.co.uk/tags/brick/</link>
+    <description>Recent content in brick on Sandberg GPR</description>
+    <image>
+      <title>Sandberg GPR</title>
+      <url>https://www.groundpenetratingradar.co.uk/img/featured.png</url>
+      <link>https://www.groundpenetratingradar.co.uk/img/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 29 Mar 2024 17:56:56 +0100</lastBuildDate>
+    <atom:link href="https://www.groundpenetratingradar.co.uk/tags/brick/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retaining wall surveys</title>
+      <link>https://www.groundpenetratingradar.co.uk/surveys/retaining-wall/</link>
+      <pubDate>Fri, 29 Mar 2024 17:56:56 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/surveys/retaining-wall/</guid>
+      <description>Our non-intrusive GPR surveys can determine retaining wall construction detail, thickness and identify defects. Access is only required to one side.</description>
+    </item>
+    <item>
+      <title>Wall Thickness</title>
+      <link>https://www.groundpenetratingradar.co.uk/surveys/wall-thickness/</link>
+      <pubDate>Fri, 29 Mar 2024 16:03:29 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/surveys/wall-thickness/</guid>
+      <description>Need to determine wall thickness or party wall detail but only have access to one side? We can help. Our GPR surveys can determine wall thickness, wall construction and more&amp;hellip;.</description>
+    </item>
+  </channel>
+</rss>

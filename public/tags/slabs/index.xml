@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>slabs on Sandberg GPR</title>
+    <link>https://www.groundpenetratingradar.co.uk/tags/slabs/</link>
+    <description>Recent content in slabs on Sandberg GPR</description>
+    <image>
+      <title>Sandberg GPR</title>
+      <url>https://www.groundpenetratingradar.co.uk/img/featured.png</url>
+      <link>https://www.groundpenetratingradar.co.uk/img/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Apr 2024 13:19:43 +0200</lastBuildDate>
+    <atom:link href="https://www.groundpenetratingradar.co.uk/tags/slabs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Locate Services in Slabs</title>
+      <link>https://www.groundpenetratingradar.co.uk/surveys/locate-services-in-slabs/</link>
+      <pubDate>Fri, 29 Mar 2024 23:09:14 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/surveys/locate-services-in-slabs/</guid>
+      <description>Non-intrusive surveys to locate services in floor slabs. We find the services for you so that you can drill and undertake intrusive works safely.</description>
+    </item>
+    <item>
+      <title>Construction Detail Verification</title>
+      <link>https://www.groundpenetratingradar.co.uk/news/construction-detail-verification/</link>
+      <pubDate>Tue, 28 Mar 2023 13:19:43 +0200</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/news/construction-detail-verification/</guid>
+      <description>Using GPR to verify construction detail and compliance with current legislation and standards. Suitable for floor slabs, concrete and masonry walls&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Filler joist location in floor slabs</title>
+      <link>https://www.groundpenetratingradar.co.uk/news/filler-joist-location-in-floor-slabs/</link>
+      <pubDate>Thu, 01 Dec 2022 08:35:46 +0200</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/news/filler-joist-location-in-floor-slabs/</guid>
+      <description>GPR is very effective in detecting and locating filler joist locations in slabs and can even differentiate between dense reinforcement and filler joists.</description>
+    </item>
+  </channel>
+</rss>

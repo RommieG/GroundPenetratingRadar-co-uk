@@ -1,0 +1,55 @@
+/* aligns photo captions to center */
+.figure {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+/* aligns all images to center */
+div #imgcenter {
+    display: flex;
+    justify-content: center;
+    }
+
+/* links */
+ .post-content a, .toc a:hover {
+    color: #9b0124;
+    font-style: italic;
+ }
+
+/* sun and moon links     
+#moon:hover {
+    transition: 0.15s;
+    color: deepskyblue;
+    }
+    
+#sun:hover {
+    transition: 0.15s;
+    color: gold;
+    }
+*/
+/* logo sandberg red */
+.logo a {
+	color: #c2002c;
+}
+
+/* Contact info block */
+.contact-info {
+	display: grid;
+	margin: auto 0 20px 0;
+	padding: 10px;
+	color: #d5d5d6;
+	background: var(--code-block-bg) !important;
+	border-radius: var(--radius);
+	overflow-x: auto;
+	word-break: break-all;
+}
+
+.contact-info contact {
+	font-size: .82em;
+	line-height: 1.5;
+}
+
+.contact-info contact a {
+	color: white;
+}

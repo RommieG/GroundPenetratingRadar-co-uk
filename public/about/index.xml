@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About on Sandberg GPR</title>
+    <link>https://www.groundpenetratingradar.co.uk/about/</link>
+    <description>Recent content in About on Sandberg GPR</description>
+    <image>
+      <title>Sandberg GPR</title>
+      <url>https://www.groundpenetratingradar.co.uk/img/featured.png</url>
+      <link>https://www.groundpenetratingradar.co.uk/img/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 29 Mar 2024 13:45:05 +0100</lastBuildDate>
+    <atom:link href="https://www.groundpenetratingradar.co.uk/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Sandberg</title>
+      <link>https://www.groundpenetratingradar.co.uk/about/sandberg/</link>
+      <pubDate>Fri, 29 Mar 2024 11:02:05 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/about/sandberg/</guid>
+      <description>Sandberg GPR is part of Sandberg LLP, an independent private, professional partnership founded in 1860 providing consultancy and independent professional services.</description>
+    </item>
+    <item>
+      <title>Ground Penetrating Radar and how it works</title>
+      <link>https://www.groundpenetratingradar.co.uk/about/how-does-gpr-work/</link>
+      <pubDate>Wed, 27 Mar 2024 11:43:29 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/about/how-does-gpr-work/</guid>
+      <description>Ground Penetrating Radar detects changes in the sub-surface. Find out how GPR works, what it can detect, how deep it can penetrate and its advantages.</description>
+    </item>
+    <item>
+      <title>Gpr Equipment</title>
+      <link>https://www.groundpenetratingradar.co.uk/about/gpr-equipment/</link>
+      <pubDate>Tue, 26 Mar 2024 12:39:22 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/about/gpr-equipment/</guid>
+      <description>A Ground Penetrating Radar system comprises two main components: a control unit and an antenna. But what are the differences? Which is best?</description>
+    </item>
+    <item>
+      <title>Ground Penetrating Radar FAQ</title>
+      <link>https://www.groundpenetratingradar.co.uk/about/gpr-faq/</link>
+      <pubDate>Thu, 21 Mar 2024 13:45:05 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/about/gpr-faq/</guid>
+      <description>Find answers to questions we are commonly asked about GPR in our Ground Penetrating Radar FAQ. What is GPR? What can it detect?</description>
+    </item>
+  </channel>
+</rss>

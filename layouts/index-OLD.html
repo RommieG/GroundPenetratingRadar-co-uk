@@ -1,0 +1,49 @@
+{{- define "main" }} 
+    {{- $pages := union .RegularPages .Sections }} 
+    {{- $paginator := .Paginate $pages }} 
+    {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }} 
+    {{- partial "home_info.html" . }} 
+    {{- end }}
+
+
+    <div class="post-content">
+
+        <img src="/images/home/GPR-surveys-home.jpg" alt="Girl in a jacket" width="720" height="auto"> 
+
+        <h1>Ground Penetrating Radar (GPR)</h1>
+        <p>Ground Penetrating Radar is an NDT method which investigates and maps the sub-surface. Sandberg uses it to analyse building construction detail, identify defects and locate buried objects and much more.</p>
+
+        <h2>What is GPR?</h2>
+        <p> Ground Penetrating Radar, commonly abbreviated to GPR, uses high-frequency radio waves to detect changes and objects in the subsurface. It is a geophysical technique, initially developed for geological mapping.</p>
+
+        <p>It is now widely recognised as a highly cost-effective non-intrusive testing technique. It offers a rapid means of obtaining subsurface information from not only soil but a variety of materials, including concrete, brick, masonry, wood and asphalt.</p>
+        <p>Ground Penetrating Radar can see below the surface; it detects changes in the sub-surface. However, it is not limited to the detection of just metallic objects. It will also differentiate between most materials such as plastics, clay pipes, wood, disturbed ground, layer interfaces and voids. The main requirement is that the target material has sufficiently different electrical properties to the material surrounding it.</p>
+        <p>GPR will also provide estimates of depth and layer thickness. All done non-intrusively. Sandberg uses it to determine the depth and extent of objects, the width of walls, and also the thickness of slabs, asphalt and screed.</p>
+
+        <h2>GPR in the Construction Industry</h2>
+        <p>Sandberg was amongst the first to recognise the potential of Ground Penetrating Radar as an investigative survey technique in the Civil Engineering and Construction industries. We have developed techniques and considerable expertise in the application and interpretation of Ground Penetrating Radar, including:</p>
+        <ul>
+            <li>Concrete imaging and rebar detection</li>
+            <li>Concrete floor slab surveys</li>
+            <li>Chimney flue location</li>
+            <li>Historical building investigation (incl. embedded steel location)</li>
+            <li>Post-tensioned tendon location</li>
+            <li>Locating underfloor heating pipes</li>
+            <li>Mapping of services and conduits in concrete floor slabs</li>
+            <li>Retaining wall surveys</li>
+            <li>Structural investigation</li>
+            <li>Site mark-up surveys</li>
+        </ul>
+
+        <p>GPR is a very flexible non-destructive survey technique. It has so many potential uses. We believe that its application is limited only by the imagination and skill of the surveyor. Their knowledge and experience in conducting the survey and interpreting the data are crucial.</p>
+
+
+
+    </div>
+
+
+    <div class="social-icons"><a href="https://www.linkedin.com/company/1091527/" target="_blank" rel="noopener noreferrer me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a><a href="/index.xml" target="_blank" rel="noopener noreferrer me" title="Rss"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 019 9"></path><path d="M4 4a16 16 0 0116 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+    </div>
+
+
+{{- end }}

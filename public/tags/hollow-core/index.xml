@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hollow core on Sandberg GPR</title>
+    <link>https://www.groundpenetratingradar.co.uk/tags/hollow-core/</link>
+    <description>Recent content in hollow core on Sandberg GPR</description>
+    <image>
+      <title>Sandberg GPR</title>
+      <url>https://www.groundpenetratingradar.co.uk/img/featured.png</url>
+      <link>https://www.groundpenetratingradar.co.uk/img/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Apr 2024 15:28:11 +0200</lastBuildDate>
+    <atom:link href="https://www.groundpenetratingradar.co.uk/tags/hollow-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Construction and building defects in a London school</title>
+      <link>https://www.groundpenetratingradar.co.uk/case-studies/construction-defects/</link>
+      <pubDate>Sat, 30 Mar 2024 16:12:31 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/case-studies/construction-defects/</guid>
+      <description>We used GPR to investigate construction detail and identify building defects, specifically if precast hollow core units had reinforcement within them and were filled with concrete.</description>
+    </item>
+    <item>
+      <title>Concrete inspection – locating hazards and defects in concrete</title>
+      <link>https://www.groundpenetratingradar.co.uk/news/concrete-inspection-locating-hazards-and-defects-in-concrete/</link>
+      <pubDate>Tue, 24 May 2022 13:03:16 +0100</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/news/concrete-inspection-locating-hazards-and-defects-in-concrete/</guid>
+      <description>GPR concrete inspection enables you to see into the sub-surface to determine construction detail, locate dangers, and identify defects in concrete.</description>
+    </item>
+  </channel>
+</rss>

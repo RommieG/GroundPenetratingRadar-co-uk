@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.groundpenetratingradar.co.uk/sitemap.xml

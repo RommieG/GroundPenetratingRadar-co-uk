@@ -1,0 +1,17 @@
+
+{{- define "main" }} 
+    {{- $pages := union .RegularPages .Sections }} 
+    {{- $paginator := .Paginate $pages }} 
+    {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }} 
+    {{- partial "home_info.html" . }} 
+    {{- end }}
+
+    <div class="post-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{ .Content }}
+      </div>
+  
+      <div class="social-icons"><a href="https://www.linkedin.com/company/1091527/" target="_blank" rel="noopener noreferrer me" title="Linkedin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a><a href="/index.xml" target="_blank" rel="noopener noreferrer me" title="Rss"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 019 9"></path><path d="M4 4a16 16 0 0116 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+      </div>
+
+    {{- end }}
