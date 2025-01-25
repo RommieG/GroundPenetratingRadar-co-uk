@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>walls on Sandberg GPR</title>
+    <link>https://www.groundpenetratingradar.co.uk/tags/walls/</link>
+    <description>Recent content in walls on Sandberg GPR</description>
+    <image>
+      <title>Sandberg GPR</title>
+      <url>https://www.groundpenetratingradar.co.uk/img/featured.png</url>
+      <link>https://www.groundpenetratingradar.co.uk/img/featured.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 01 Apr 2024 08:49:45 +0200</lastBuildDate>
+    <atom:link href="https://www.groundpenetratingradar.co.uk/tags/walls/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedded steel in historic buildings</title>
+      <link>https://www.groundpenetratingradar.co.uk/news/embedded-steel-in-historic-buildings/</link>
+      <pubDate>Mon, 12 Dec 2022 08:49:45 +0200</pubDate>
+      <guid>https://www.groundpenetratingradar.co.uk/news/embedded-steel-in-historic-buildings/</guid>
+      <description>Detecting embedded metal in masonry walls non-intrusively. Ideal for historic and heritage buildings.</description>
+    </item>
+  </channel>
+</rss>
